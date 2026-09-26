@@ -1,0 +1,6 @@
+{
+  "name": "NOVARA - Premium Pakistani E-Commerce",
+  "description": "Ultra-premium, production-quality WooCommerce e-commerce homepage for NOVARA, offering curated fashion, beauty, electronics, and lifestyle products in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
